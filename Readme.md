@@ -4,4 +4,4 @@ Fully Responsive - Animations & Transitions - Embeded YouTube Video - Map IFrame
 
 # Live Preview
 
-https://knight-king.netlify.app/
+https://night-king-template.vercel.app/
